@@ -30,3 +30,4 @@ Get started right. Become a shell native. This is the way.
 # avoid re-reading the config on every call
 # drop an unused branch
 # avoid re-reading the config on every call
+# guard against empty input
